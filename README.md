@@ -1,16 +1,16 @@
 # Hello, I'm Ryan! 👋
-*Upcoming fullstack developer, AI Engineer, and soon to be millionaire*
+*Upcoming fullstack developer, AI Engineer*
 
 ## 🚀 About Me
-I'm an upcoming full stack developer who strives to learn more about advancing technology. I am 17 years old and a highschool senior at Fairchild Wheeler.
+I'm an upcoming AI engineer who strives to learn more about advancing technology. I am 19 years old and a college rising sophmore at University of Connecticut.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, and a bit of Python/AI/ML.
+Python/AI/ML, JavaScript, HTML, and CSS
 
 
 ## Upcoming Projects
-👩‍💻 I'm currently working on my road to becoming a Fullstack Developer
+👩‍💻 I'm currently working on my road to becoming a AI Enginee
 
 🧠 I'm currently learning the fundamentals of front-end developing
 
