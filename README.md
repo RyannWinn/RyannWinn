@@ -10,7 +10,7 @@ Python/AI/ML, JavaScript, HTML, and CSS
 
 
 ## Upcoming Projects
-👩‍💻 I'm currently working on my road to becoming a AI Enginee
+👩‍💻 I'm currently working on my road to becoming a AI Engineer
 
 🧠 I'm currently learning the fundamentals of front-end developing
 
