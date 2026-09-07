@@ -1,32 +1,42 @@
-# Hello, I'm Ryan! 👋
-*Upcoming fullstack developer, AI Engineer*
+# Ryan Nguyen 👋
+**Computer Science @ University of Connecticut**  
+Building software at the intersection of **Full-Stack Development** and **Applied AI / Machine Learning**.
 
-## 🚀 About Me
-I'm an upcoming AI engineer who strives to learn more about advancing technology. I am 19 years old and a college rising sophmore at University of Connecticut.
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ryannwinn.github.io/portfolio-website-v2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryannwinn/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2007ryanwin@gmail.com)
 
+---
 
-## 🛠 Skills
-Python/AI/ML, JavaScript, HTML, and CSS
+### 👨‍💻 About Me
+- 🎓 **Education:** Honors Computer Science & Financial Analysis Minor at the University of Connecticut.
+- 🔭 **Current Focus:** Developing end-to-end LLM/RAG pipelines, full-stack web applications, and optimized backend architectures.
+- ⚡ **Fun Fact:** Classical pianist for 10+ years.
 
+---
 
-## Upcoming Projects
-👩‍💻 I'm currently working on my road to becoming a AI Engineer
+### 🛠 Tech Stack
 
-🧠 I'm currently learning the fundamentals of front-end developing
+**Languages**  
+`Python` • `Java` • `C++` • `C#` • `JavaScript` • `HTML5` • `CSS3`
 
-👯‍♀️ I'm looking to collaborate on many side projects focused on freelacning and building websites with a team.
+**AI / Data & Frameworks**  
+`ChromaDB` • `Gradio` • `Groq API` • `NumPy` • `pandas` • `Matplotlib`
 
-🤔 I'm looking for help with advanced javascript skills and other front-end developing skills.
+**Tools & Platforms**  
+`Git` • `GitHub` • `VS Code` • `Linux / Unix`
 
-💬 Ask me about anything related to computer science.
+---
 
-📫 Email me through my gmail and get in touch: 2007ryanwin@gmail.com
+### 🚀 Featured Projects
 
-😄 Pronouns: He/Him
+- **[RAG-Based Professor Review Assistant](https://github.com/RyannWinn)**  
+  End-to-end retrieval-augmented generation pipeline using ChromaDB vector embeddings (`all-MiniLM-L6-v2`), Groq API, and Gradio, featuring pre-call query filtering and hallucination safeguards.
 
-⚡️ Fun fact: Played piano for over ten years and constantly becoming better.
+- **[University Course Management System](https://github.com/RyannWinn)**  
+  Core OOP application implementing custom hash maps with dynamic rehashing, custom Linked Queues, and $O(n \log n)$ Merge/Quick Sort algorithms for academic scheduling.
 
+---
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ryannwinn.github.io/Ryan-Portfolio-Website)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-nguyen-a990252b0/h)
+### 📫 Connect With Me
+Feel free to reach out for collaborations, project discussions, or open software roles at **2007ryanwin@gmail.com**.
