@@ -18,7 +18,7 @@ Building software at the intersection of **Full-Stack Development** and **Applie
 ### 🛠 Tech Stack
 
 **Languages**  
-`Python` • `Java` • `C++` • `C#` • `JavaScript` • `HTML5` • `CSS3`
+`Python` • `Java` • `C` • `C++` • `C#` • `JavaScript` • `HTML5` • `CSS3`
 
 **AI / Data & Frameworks**  
 `ChromaDB` • `Gradio` • `Groq API` • `NumPy` • `pandas` • `Matplotlib`
