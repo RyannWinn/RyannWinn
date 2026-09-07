@@ -30,10 +30,10 @@ Building software at the intersection of **Full-Stack Development** and **Applie
 
 ### 🚀 Featured Projects
 
-- **[RAG-Based Professor Review Assistant]([https://github.com/RyannWinn](https://github.com/RyannWinn/ai201-project1-unofficial-guide-starter))**  
+- **[RAG-Based Professor Review Assistant]([https://github.com/RyannWinn/ai201-project1-unofficial-guide-starter])**  
   End-to-end retrieval-augmented generation pipeline using ChromaDB vector embeddings (`all-MiniLM-L6-v2`), Groq API, and Gradio, featuring pre-call query filtering and hallucination safeguards.
 
-- **[University Course Management System]([https://github.com/K3iye/Milestone-1-collaboration-project))**  
+- **[University Course Management System]([https://github.com/K3iye/Milestone-1-collaboration-project])**  
   Core OOP application implementing custom hash maps with dynamic rehashing, custom Linked Queues, and $O(n \log n)$ Merge/Quick Sort algorithms for academic scheduling.
 
 ---
