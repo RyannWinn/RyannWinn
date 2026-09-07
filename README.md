@@ -1,7 +1,5 @@
 # Ryan Nguyen 👋
 **Computer Science @ University of Connecticut**  
-Building software at the intersection of **Full-Stack Development** and **Applied AI / Machine Learning**.
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ryannwinn.github.io/portfolio-website-v2/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryannwinn/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2007ryanwin@gmail.com)
@@ -9,9 +7,9 @@ Building software at the intersection of **Full-Stack Development** and **Applie
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Education:** Honors Computer Science & Financial Analysis Minor at the University of Connecticut.
+- 🎓 **Education:** Honors in Computer Science & Financial Analysis Minor at the University of Connecticut.
 - 🔭 **Current Focus:** Developing end-to-end LLM/RAG pipelines, full-stack web applications, and optimized backend architectures.
-- ⚡ **Fun Fact:** Classical pianist for 10+ years.
+- ⚡ **Fun Fact:** Classical pianist for 10+ years. I am a big fan of Chopin & Liszt.
 
 ---
 
