@@ -1,5 +1,6 @@
 # Ryan Nguyen 👋
-**Computer Science @ University of Connecticut**  
+**Computer Science @ University of Connecticut**
+
 I'm an honors Computer Science student at UConn with a minor in Financial Analysis, focusing on applied AI and full-stack development. Most recently, I built an end-to-end Retrieval Augmented Generation assistant using ChromaDB and Groq API that queries university reviews with anti-hallucination safeguards. Alongside AI applications, I have a solid foundation in systems programming and algorithms across Python, JavaScript, and C.
 
 Outside of coding, I've played classical piano for over ten years and still enjoy playing it from time to time. It helps me concentrate and destress my mind from work and studying.
